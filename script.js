@@ -53,4 +53,4 @@ form.addEventListener("submit", (e) => {
     returnMovies(SEARCHAPI + searchItem);
     search.value = "";
   }
-})
+}) 
